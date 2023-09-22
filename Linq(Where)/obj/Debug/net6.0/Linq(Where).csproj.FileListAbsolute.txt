@@ -1,0 +1,15 @@
+C:\Users\sowad\source\repos\Linq\Linq(Where)\bin\Debug\net6.0\Linq(Where).exe
+C:\Users\sowad\source\repos\Linq\Linq(Where)\bin\Debug\net6.0\Linq(Where).deps.json
+C:\Users\sowad\source\repos\Linq\Linq(Where)\bin\Debug\net6.0\Linq(Where).runtimeconfig.json
+C:\Users\sowad\source\repos\Linq\Linq(Where)\bin\Debug\net6.0\Linq(Where).dll
+C:\Users\sowad\source\repos\Linq\Linq(Where)\bin\Debug\net6.0\Linq(Where).pdb
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).csproj.AssemblyReference.cache
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).AssemblyInfoInputs.cache
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).AssemblyInfo.cs
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).csproj.CoreCompileInputs.cache
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).dll
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\refint\Linq(Where).dll
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).pdb
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\Linq(Where).genruntimeconfig.cache
+C:\Users\sowad\source\repos\Linq\Linq(Where)\obj\Debug\net6.0\ref\Linq(Where).dll

@@ -1,0 +1,15 @@
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\bin\Debug\net6.0\Linq(Problem_Solve).exe
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\bin\Debug\net6.0\Linq(Problem_Solve).deps.json
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\bin\Debug\net6.0\Linq(Problem_Solve).runtimeconfig.json
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\bin\Debug\net6.0\Linq(Problem_Solve).dll
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\bin\Debug\net6.0\Linq(Problem_Solve).pdb
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).csproj.AssemblyReference.cache
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).AssemblyInfoInputs.cache
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).AssemblyInfo.cs
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).csproj.CoreCompileInputs.cache
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).dll
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\refint\Linq(Problem_Solve).dll
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).pdb
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\Linq(Problem_Solve).genruntimeconfig.cache
+C:\Users\sowad\source\repos\Linq\Linq(Problem_Solve)\obj\Debug\net6.0\ref\Linq(Problem_Solve).dll
